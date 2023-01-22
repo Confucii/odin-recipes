@@ -1,0 +1,29 @@
+body {
+    background-color: #1C1C1C;
+    font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+    color: #FFB606;
+}
+
+h1,
+h2,
+.recipe-links {
+    text-align: center;
+    list-style: none;
+}
+
+a {
+    color: #B28228;
+}
+
+
+h1,
+h2 {
+    color: #FFE002;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+}
