@@ -1,12 +1,9 @@
 # Odin Recipes
-First Odin Project project (pun not intended)
+First Odin Project project (pun not intended). The purpose of this project is to practice basic HTML and CSS skills.
 
 ## [Live Demo](https://confucii.github.io/odin-recipes/)
 
 ![Website layout image](https://raw.githubusercontent.com/Confucii/confucii/main/images/recipes.png)
-
-
-The purpose of this project is to practice basic HTML and CSS skills.
 
 ## Technologies used
 
